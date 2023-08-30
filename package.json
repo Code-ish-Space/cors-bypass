@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cors-anywhere": "^0.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
